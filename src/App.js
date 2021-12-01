@@ -13,7 +13,7 @@ function App() {
   //   console.log("file:",file);
 
   //   const target = { Bucket:"demo-upload-2", Key:file.name, Body:file };
-  //   const creds = {accessKeyId:"AKIAWLLYJKYTLVPVPFBR" ,secrectAccessKey:"GBJ7ryk66zWagpy1agRaxqktZDwz5G3N70V7opWQ"};
+  //   const creds = {accessKeyId:"" ,secrectAccessKey:""};
   //   try {
   //     const parallelUploads3 = new Upload({
   //       client: new S3Client({region:"us-east-1", credentials:creds }),
